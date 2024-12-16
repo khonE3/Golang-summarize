@@ -3,9 +3,12 @@
 
 // Still learning for a long time //
 
-All commands basic Golang for amatures 
+Run file --> homeGo.go
 
-  //* Manual Var
+# All commands basic Golang for amatures 
+
+ 
+  
 	var folks string = "Folks"
 	var Npercent float32 = 95.2
 	const Persent = "%"
