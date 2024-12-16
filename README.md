@@ -1,2 +1,4 @@
-# Golang-Summarize
-All commands basic Golang for amatures (Not complete yet)
+# Golang-Summarize (Not complete yet)
+All commands basic Golang for amatures 
+
+// Still learning for a long time //
